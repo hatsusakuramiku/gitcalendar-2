@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "module": "ESNext",
+    "jsx": "preserve",
+    "jsxFactory": "preact.h",
+    "jsxFragmentFactory": "preact.Fragment",
+    "moduleResolution": "Node",
+    "allowJs": true,
+    "checkJs": true
+  },
+  "include": ["workers", "pages", "scripts", "node_modules/wmr"]
+}
